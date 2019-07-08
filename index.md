@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# HA Advanced Specialty Programme in Genetics
+## Practical 1 Linux Bootcamp
 
-You can use the [editor on GitHub](https://github.com/IP-lab/HA-AdvancedSpecialtyProgramme/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In order to harvest the full potential of open-source and state-of-the-art bioinformatic software in clinical data analysis, the use of Linux terminal and operating system is mandatory.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this session, we will learn how to use [Ubuntu 18.04](http://releases.ubuntu.com/18.04/) to navigate files and directories in Linux terminal. Ubuntu is an open-source Linux operating system. MacOS is another commonly used operating system, with Linux terminal available. In Windows 10, users can download [Ubuntu from Windows Store](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab) to use Windows Subsystem for Linux (WSL).
+
+
+
 
 ### Markdown
 
