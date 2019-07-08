@@ -5,9 +5,6 @@ In order to harvest the full potential of open-source and state-of-the-art bioin
 
 In this session, we will learn how to use [Ubuntu 18.04](http://releases.ubuntu.com/18.04/) to navigate files and directories in Linux terminal. Ubuntu is an open-source Linux operating system. MacOS is another commonly used operating system, with Linux terminal available. In Windows 10, users can download [Ubuntu from Windows Store](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab) to use Windows Subsystem for Linux (WSL).
 
-
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
