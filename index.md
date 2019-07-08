@@ -1,9 +1,16 @@
 # HA Advanced Specialty Programme in Genetics
-## Practical 1 Linux Bootcamp
+## Practical 1. Linux Bootcamp
 
 In order to harvest the full potential of open-source and state-of-the-art bioinformatic software in clinical data analysis, the use of Linux terminal and operating system is mandatory.
 
 In this session, we will learn how to use [Ubuntu 18.04](http://releases.ubuntu.com/18.04/) to navigate files and directories in Linux terminal. Ubuntu is an open-source Linux operating system. MacOS is another commonly used operating system, with Linux terminal available. In Windows 10, users can download [Ubuntu from Windows Store](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab) to use Windows Subsystem for Linux (WSL).
+
+### Basic Linux Commands
+List files and sub-directories in the current directory
+```markdown
+ls
+ll -h
+```
 
 ### Markdown
 
